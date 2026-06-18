@@ -1,0 +1,5 @@
+// DPI Boost
+DpiTrickBonus::DpiBooster::boostDpi(1.5f); // Tăng 50% DPI
+
+// File Buff Nhạy
+DpiTrickBonus::DpiBooster::applySensitivityFile("/sdcard/dpitrick/sensitivity.cfg");
